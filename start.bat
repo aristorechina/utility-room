@@ -1,4 +1,5 @@
-@echo off5
+@echo off
+title Made by Aristore
 chcp 65001
 cd C:\Users\GY1\Desktop\English
 shutdown -s -t 600
